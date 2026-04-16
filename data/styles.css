@@ -78,6 +78,8 @@
 ._文本段落 {
   text-align:left;
 }
+.line {
+}
 .arrow {
 }
 .text_field {
@@ -95,6 +97,8 @@
 .list_box {
   color:#000000;
   text-align:left;
+}
+.menu_item {
 }
 .form_hint {
   color:#999999;
