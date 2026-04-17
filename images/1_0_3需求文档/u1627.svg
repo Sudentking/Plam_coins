@@ -1,6 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="208px" height="26px" xmlns="http://www.w3.org/2000/svg">
-  <g transform="matrix(1 0 0 1 -610 -2627 )">
-    <path d="M 611 2628  L 817 2628  L 817 2652  L 611 2652  L 611 2628  Z " fill-rule="nonzero" fill="#201b0d" stroke="none" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="276px" height="37px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient gradientUnits="userSpaceOnUse" x1="640.685314685315" y1="2499" x2="846.559440559441" y2="2536" id="LinearGradient562">
+      <stop id="Stop563" stop-color="#211f0f" offset="0" />
+      <stop id="Stop564" stop-color="#231f10" offset="1" />
+    </linearGradient>
+  </defs>
+  <g transform="matrix(1 0 0 1 -609 -2499 )">
+    <path d="M 610 2500  L 884 2500  L 884 2535  L 610 2535  L 610 2500  Z " fill-rule="nonzero" fill="url(#LinearGradient562)" stroke="none" />
   </g>
 </svg>
