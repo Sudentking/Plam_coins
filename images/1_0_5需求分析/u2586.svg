@@ -1,14 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="44px" height="44px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient gradientUnits="userSpaceOnUse" x1="43.3564173591877" y1="11947.6172839506" x2="85" y2="11979.1234567901" id="LinearGradient478">
-      <stop id="Stop479" stop-color="#ffca42" offset="0" />
-      <stop id="Stop480" stop-color="#fccc51" offset="0.49" />
-      <stop id="Stop481" stop-color="#ffbe18" offset="1" />
+    <linearGradient gradientUnits="userSpaceOnUse" x1="43.3564173591877" y1="11947.6172839506" x2="85" y2="11979.1234567901" id="LinearGradient251">
+      <stop id="Stop252" stop-color="#ffca42" offset="0" />
+      <stop id="Stop253" stop-color="#fccc51" offset="0.49" />
+      <stop id="Stop254" stop-color="#ffbe18" offset="1" />
     </linearGradient>
   </defs>
   <g transform="matrix(1 0 0 1 -41 -11943 )">
-    <path d="M 63 11943  C 75.32 11943  85 11952.68  85 11965  C 85 11977.32  75.32 11987  63 11987  C 50.68 11987  41 11977.32  41 11965  C 41 11952.68  50.68 11943  63 11943  Z " fill-rule="nonzero" fill="url(#LinearGradient478)" stroke="none" />
+    <path d="M 63 11943  C 75.32 11943  85 11952.68  85 11965  C 85 11977.32  75.32 11987  63 11987  C 50.68 11987  41 11977.32  41 11965  C 41 11952.68  50.68 11943  63 11943  Z " fill-rule="nonzero" fill="url(#LinearGradient251)" stroke="none" />
     <path d="M 63 11943.5  C 75.04 11943.5  84.5 11952.96  84.5 11965  C 84.5 11977.04  75.04 11986.5  63 11986.5  C 50.96 11986.5  41.5 11977.04  41.5 11965  C 41.5 11952.96  50.96 11943.5  63 11943.5  Z " stroke-width="1" stroke="#797979" fill="none" />
   </g>
 </svg>
