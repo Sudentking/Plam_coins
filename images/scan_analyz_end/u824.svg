@@ -1,18 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="35px" height="37px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <filter x="90px" y="733px" width="35px" height="37px" filterUnits="userSpaceOnUse" id="filter189">
+    <filter x="90px" y="733px" width="35px" height="37px" filterUnits="userSpaceOnUse" id="filter7">
       <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetInner" />
       <feGaussianBlur stdDeviation="5" in="shadowOffsetInner" result="shadowGaussian" />
       <feComposite in2="shadowGaussian" operator="atop" in="SourceAlpha" result="shadowComposite" />
       <feColorMatrix type="matrix" values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 0.313725490196078 0  " in="shadowComposite" />
     </filter>
-    <g id="widget190">
+    <g id="widget8">
       <path d="M 1.359375 0  L 13.640625 0  C 13.8203125 0  13.9921875 0.0337078651685396  14.15625 0.101123595505619  C 14.4140625 0.198501872659174  14.619140625 0.352059925093632  14.771484375 0.561797752808989  C 14.923828125 0.771535580524344  15 1.00374531835206  15 1.25842696629213  L 15 15.7415730337079  C 15 15.9962546816479  14.923828125 16.2284644194757  14.771484375 16.438202247191  C 14.619140625 16.6479400749064  14.4140625 16.8014981273408  14.15625 16.8988764044944  C 14.0078125 16.9588014981273  13.8359375 16.9887640449438  13.640625 16.9887640449438  C 13.265625 16.9887640449438  12.94140625 16.8689138576779  12.66796875 16.6292134831461  L 7.5 11.8651685393258  L 2.33203125 16.6292134831461  C 2.05078125 16.876404494382  1.7265625 17  1.359375 17  C 1.1796875 17  1.0078125 16.9662921348315  0.84375 16.8988764044944  C 0.5859375 16.8014981273408  0.380859375 16.6479400749064  0.228515625 16.438202247191  C 0.076171875 16.2284644194757  0 15.9962546816479  0 15.7415730337079  L 0 1.25842696629213  C 0 1.00374531835206  0.076171875 0.771535580524344  0.228515625 0.561797752808989  C 0.380859375 0.352059925093632  0.5859375 0.198501872659174  0.84375 0.101123595505619  C 1.0078125 0.0337078651685396  1.1796875 0  1.359375 0  Z " fill-rule="nonzero" fill="#fe3737" stroke="none" transform="matrix(1 0 0 1 100 743 )" />
     </g>
   </defs>
   <g transform="matrix(1 0 0 1 -90 -733 )">
-    <use xlink:href="#widget190" filter="url(#filter189)" />
-    <use xlink:href="#widget190" />
+    <use xlink:href="#widget8" filter="url(#filter7)" />
+    <use xlink:href="#widget8" />
   </g>
 </svg>
